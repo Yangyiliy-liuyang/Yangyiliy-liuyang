@@ -4,7 +4,7 @@
 - 🍻 
 - ⚡ 
 - 🖋 
-- ✍️ 
+- ✍️ https://about-me-gamma-green.vercel.app
 - 🏃 
 - 🥋 
 - ♟ 
